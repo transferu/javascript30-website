@@ -2,7 +2,7 @@
 
 Сайт-лендинг для русскоязычной версии популярного челленджа **#JavaScript30** от Уэса Боса.
 
-[Посмотреть сайт](https://javascript30-ru.vercel.app/)
+[Посмотреть сайт](https://transferu.github.io/javascript30-website/)
 
 ## О проекте
 
