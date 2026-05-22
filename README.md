@@ -1,6 +1,6 @@
 ﻿# JavaScript30 на русском языке
 
-Сайт-лендинг для русскоязычной версии популярного челленджа **#JavaScript30** от Уэса Боса.
+Лендинг для русскоязычной версии популярного челленджа **#JavaScript30** от Уэса Боса.
 
 [Посмотреть сайт](https://transferu.github.io/javascript30-website/)
 
@@ -19,4 +19,4 @@
 
 - [Оригинальный курс (английский)](https://javascript30.com/)
 - [Плейлист с видео (русские субтитры)](https://vkvideo.ru/playlist/-223467206_4)
-- [Репозиторий с проектами](https://github.com/twep-ru/JavaScript30/tree/Russian)
+- [Репозиторий с проектами](https://github.com/transferu/JavaScript30)
